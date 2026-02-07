@@ -12,3 +12,4 @@ C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\refint\Basic
 C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.pdb
 C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.genruntimeconfig.cache
 C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\ref\BasicProblems.dll
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.sourcelink.json

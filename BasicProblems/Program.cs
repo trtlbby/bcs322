@@ -34,7 +34,13 @@ class Program
             }
             i++;
         }
-        String headResults = new string(headCount.ToArray());
+        string headResults = new string(headCount.ToArray());
+        string tailResults = new string(tailCount.ToArray());
+        double headPercent = (double)headCount.Count() / toss * 100;
+        double tailPercent = (double)tailCount.Count() / toss * 100;
         Console.WriteLine("HEADS: " + headResults);
+        Console.WriteLine("TAILS: " + tailResults);
+        Console.WriteLine($"HEADS: {headPercent:F2}%");
+        Console.WriteLine($"TAILS: {tailPercent:F2}%");
     }
 }
