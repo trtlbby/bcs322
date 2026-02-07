@@ -1,4 +1,7 @@
-﻿namespace BasicProblems;
+﻿using System.Linq;
+using System;
+
+namespace BasicProblems;
 
 class Program
 {
