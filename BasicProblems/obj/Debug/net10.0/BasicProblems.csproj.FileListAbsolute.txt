@@ -1,0 +1,14 @@
+C:\Users\user\devs\Academics\BCS322\BasicProblems\bin\Debug\net10.0\BasicProblems.exe
+C:\Users\user\devs\Academics\BCS322\BasicProblems\bin\Debug\net10.0\BasicProblems.deps.json
+C:\Users\user\devs\Academics\BCS322\BasicProblems\bin\Debug\net10.0\BasicProblems.runtimeconfig.json
+C:\Users\user\devs\Academics\BCS322\BasicProblems\bin\Debug\net10.0\BasicProblems.dll
+C:\Users\user\devs\Academics\BCS322\BasicProblems\bin\Debug\net10.0\BasicProblems.pdb
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.AssemblyInfoInputs.cache
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.AssemblyInfo.cs
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.csproj.CoreCompileInputs.cache
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.dll
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\refint\BasicProblems.dll
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.pdb
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\BasicProblems.genruntimeconfig.cache
+C:\Users\user\devs\Academics\BCS322\BasicProblems\obj\Debug\net10.0\ref\BasicProblems.dll
