@@ -3,7 +3,7 @@ using System;
 
 namespace BasicProblems;
 
-class Program
+class CoinTossSim
 {
     static int flip()
     {
@@ -11,7 +11,7 @@ class Program
         int coin = rnd.Next(0,2); //NOTES: instead of 0,1 -> use 0,2 
         return coin;
     }
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
         Console.WriteLine("The Coin Toss Simulator");
         int toss = 80;
