@@ -2,7 +2,7 @@ namespace BasicProblems;
 
 class BinarySearch
 {
-    static void Main(string[] args)
+    static void Main2(string[] args)
     {
         int[] numbers = { 23, 5, 17, 8, 42, 3, 15, 29, 1, 34, 19, 7, 12, 27, 10 };
         Array.Sort(numbers);
