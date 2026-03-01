@@ -1,0 +1,15 @@
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\bin\Debug\net10.0\PracticeProblem03.exe
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\bin\Debug\net10.0\PracticeProblem03.deps.json
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\bin\Debug\net10.0\PracticeProblem03.runtimeconfig.json
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\bin\Debug\net10.0\PracticeProblem03.dll
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\bin\Debug\net10.0\PracticeProblem03.pdb
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.AssemblyInfoInputs.cache
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.AssemblyInfo.cs
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.csproj.CoreCompileInputs.cache
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.sourcelink.json
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.dll
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\refint\PracticeProblem03.dll
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.pdb
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\PracticeProblem03.genruntimeconfig.cache
+C:\Users\user\devs\Academics\BCS322\PracticeProblem03\obj\Debug\net10.0\ref\PracticeProblem03.dll

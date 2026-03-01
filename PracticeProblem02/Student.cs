@@ -1,4 +1,4 @@
-﻿namespace BasicOOP;
+﻿namespace PracticeProblem02;
 
 class Student
 {
