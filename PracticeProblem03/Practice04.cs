@@ -6,26 +6,33 @@ class Practice04
     Number Matrix
     */
 
-    static void matrix(int n)
+    static void mtrx(int n)
     {
-        if (n < 20)
+        for (int row = 1; row <= n; row++)
         {
-            Console.WriteLine("Num less than 20");
-        } else
-        {
-            Console.WriteLine("Num greater than 20");
+            for (int col = 1; col <= n; col++)
+            {
+                Console.Write($"{row + col - 1}");
+            }
+            Console.WriteLine();
         }
     }
     static void hello()
     {
-        Console.WriteLine("dear diary, whr i lft u nd u lft me");
+        Console.WriteLine("this is the matrix");
     }
     static void Main(string[] args)
     {
         hello();
-        Console.Write("Enter Number: ");
-        string num = Console.ReadLine();
-        int n = Convert.ToInt32(num);
-        matrix(n);
+        Console.Write("Enter Number (N < 20): ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        if (n > 0 && n < 20)
+        {
+            mtrx(n);
+        }
+        else
+        {
+            Console.WriteLine("Number must be positive and less than 20");
+        }
     }
 }
