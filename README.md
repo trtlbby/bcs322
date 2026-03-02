@@ -35,6 +35,14 @@ If you would like to use this repository for your own study or reference:
 3. **Study and work locally:**
    - You can now review and modify the code on your computer.
    - This allows you to experiment with changes without affecting the original repository.
+   - To also run each program, you must modify the .csproj in each solution folder.
+      ```html
+      <PropertyGroup>
+         <!--Start Up Object-->
+         <StartupObject>{SolutionFolderName}.{SolutionFileName.}</StartupObject>
+         <!--example -->
+         <StartupObject>PracticeProblem03.Practice03</StartupObject>
+      </PropertyGroup>
 
 4. **Sync with updates:**
    - If you want to keep your fork up-to-date with this repository, you can add an upstream remote:
