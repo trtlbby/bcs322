@@ -1,5 +1,3 @@
-using System.Runtime.CompilerServices;
-
 namespace PracticeProblem03;
 
 class Practice06
