@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <!--Start Up Object-->
-    <StartupObject>PracticeProblem03.Practice06</StartupObject>
+    <StartupObject>PracticeProblem03.Practice07</StartupObject>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
